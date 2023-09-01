@@ -52,5 +52,3 @@ This project is licensed under the MIT License
 ## Acknowledgments
 
 - Thanks to Islamia University Bahawalpur for providing the inspiration for this project.
-
-Feel free to customize this README file to provide more specific details about your project, its features, and how to use it.
