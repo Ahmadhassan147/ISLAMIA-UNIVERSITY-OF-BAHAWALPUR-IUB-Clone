@@ -13,7 +13,6 @@ This repository contains a clone of the frontend for Islamia University Bahawalp
 
 - Replicates the user interface and design of Islamia University Bahawalpur's official website.
 - Created using HTML and CSS.
-- [Add any additional features here]
 
 ## Getting Started
 
