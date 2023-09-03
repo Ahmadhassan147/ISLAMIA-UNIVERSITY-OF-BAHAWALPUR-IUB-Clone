@@ -50,4 +50,4 @@ This project is licensed under the MIT License
 
 ## Acknowledgments
 
-- Thanks to Islamia University Bahawalpur for providing the inspiration for this project..
+- Thanks to Islamia University Bahawalpur for providing the inspiration for this project.
